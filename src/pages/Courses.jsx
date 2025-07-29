@@ -1,10 +1,18 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import courseDetails from '../data/courseDetails.json';
+import Sidebar from '../components/Sidebar';
 import styles from '../styles/Courses.module.css';
 
 function Courses() {
   return (
+
+    <>
+    <div className={styles.dashboardLayout}>
+    <Sidebar/>
+
+    <div className={styles.mainContent}>
+      
     <div className={styles.container}>
       <h2 className={styles.heading}>All Courses</h2>
       <div className={styles.grid}>
@@ -18,6 +26,10 @@ function Courses() {
         ))}
       </div>
     </div>
+
+</div>
+</div>
+    </>
   );
 }
 
