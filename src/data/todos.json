@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "task": "Finish React assignment",
+    "dueDate": "2025-08-01"
+  },
+  {
+    "id": 2,
+    "task": "Prepare for client demo",
+    "dueDate": "2025-08-03"
+  },
+  {
+    "id": 3,
+    "task": "Update project documentation",
+    "dueDate": "2025-08-05"
+  },
+  {
+    "id": 4,
+    "task": "Refactor authentication flow",
+    "dueDate": "2025-08-07"
+  },
+  {
+    "id": 5,
+    "task": "Push final build to GitHub",
+    "dueDate": "2025-08-10"
+  },
+  {
+    "id": 6,
+    "task": "random task",
+    "dueDate": "2025-08-10"
+  }
+]

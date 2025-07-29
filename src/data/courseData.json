@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c1",
+    "title": "Introduction to Peace talks",
+    "instructor": "Vladimir Putin",
+    "progress": 75
+  },
+  {
+    "id": "c2",
+    "title": "How to take credit without doing anything",
+    "instructor": "McDonald Trump",
+    "progress": 40
+  },
+  {
+    "id": "c3",
+    "title": "Peaceful neighbour",
+    "instructor": "xi Jingping",
+    "progress": 60
+  },
+  {
+    "id": "c4",
+    "title": "how to be a rich nation",
+    "instructor": "some pakistani general",
+    "progress": 90
+  },
+  {
+    "id": "c5",
+    "title": "gender equality",
+    "instructor": "taliban",
+    "progress": 20
+  },
+  {
+    "id": "c6",
+    "title": "true democracy",
+    "instructor": "kim jon ",
+    "progress": 50
+  }
+]
