@@ -1,0 +1,25 @@
+.tabNav {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.tab {
+  padding: 0.5rem 1rem;
+  background: #f0f0f0;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.activeTab {
+  background: #1976d2;
+  color: white;
+}
+
+.tabContent {
+  padding: 1rem;
+  background-color: #fff;
+  border-radius: 8px;
+}

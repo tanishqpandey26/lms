@@ -26,5 +26,34 @@
         "score": "90/100"
       }
     ]
+  },
+
+   {
+    "id": "course-102",
+    "title": "Introduction to Programming",
+    "description": "This course introduces the fundamentals of programming using Python.",
+    "instructor": "Prof. Ramesh Iyer",
+    "assignments": [
+      {
+        "title": "Variables & Data Types",
+        "dueDate": "2025-08-10",
+        "status": "Pending"
+      },
+      {
+        "title": "Loops and Conditions",
+        "dueDate": "2025-08-17",
+        "status": "Submitted"
+      }
+    ],
+    "grades": [
+      {
+        "assignment": "Variables & Data Types",
+        "score": "85/100"
+      },
+      {
+        "assignment": "Loops and Conditions",
+        "score": "90/100"
+      }
+    ]
   }
 ]

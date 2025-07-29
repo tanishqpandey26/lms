@@ -1,12 +1,12 @@
 [
   {
-    "id": "c1",
+    "id": "course-101",
     "title": "Introduction to Peace talks",
     "instructor": "Vladimir Putin",
     "progress": 75
   },
   {
-    "id": "c2",
+    "id": "course-102",
     "title": "How to take credit without doing anything",
     "instructor": "McDonald Trump",
     "progress": 40
